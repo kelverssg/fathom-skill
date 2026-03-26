@@ -1,0 +1,202 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 5,
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.10.0"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "id": "cell-overview",
+      "metadata": {},
+      "source": [
+        "# TOPIC_PLACEHOLDER\n",
+        "\n",
+        "*Fathom notebook — DATE_PLACEHOLDER*\n",
+        "\n",
+        "## What we're learning\n",
+        "\n",
+        "OVERVIEW_PLACEHOLDER\n",
+        "\n",
+        "## What you'll be able to do after this notebook\n",
+        "\n",
+        "- OUTCOME_1\n",
+        "- OUTCOME_2\n",
+        "- OUTCOME_3"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "cell-deps",
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "# Install dependencies (run this cell first)\n",
+        "# !pip install PACKAGES_PLACEHOLDER\n",
+        "\n",
+        "# Imports\n",
+        "IMPORTS_PLACEHOLDER"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-concept-1-md",
+      "metadata": {},
+      "source": [
+        "## Concept 1: CONCEPT_1_NAME\n",
+        "\n",
+        "CONCEPT_1_EXPLANATION\n",
+        "\n",
+        "**Key point:** CONCEPT_1_KEY"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "cell-concept-1-demo",
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "# Demonstrate Concept 1\n",
+        "DEMO_1_PLACEHOLDER"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-concept-2-md",
+      "metadata": {},
+      "source": [
+        "## Concept 2: CONCEPT_2_NAME\n",
+        "\n",
+        "CONCEPT_2_EXPLANATION\n",
+        "\n",
+        "**Key point:** CONCEPT_2_KEY"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "cell-concept-2-demo",
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "# Demonstrate Concept 2\n",
+        "DEMO_2_PLACEHOLDER"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-example-md",
+      "metadata": {},
+      "source": [
+        "## Worked Example: EXAMPLE_TITLE\n",
+        "\n",
+        "EXAMPLE_SETUP"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "cell-example-code",
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "# End-to-end example\n",
+        "EXAMPLE_CODE_PLACEHOLDER"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-challenge",
+      "metadata": {},
+      "source": [
+        "## Challenge\n",
+        "\n",
+        "Try the following:\n",
+        "\n",
+        "1. CHALLENGE_1\n",
+        "2. CHALLENGE_2\n",
+        "3. **Stretch:** CHALLENGE_3\n",
+        "\n",
+        "<details>\n",
+        "<summary>Hints</summary>\n",
+        "\n",
+        "- HINT_1\n",
+        "- HINT_2\n",
+        "\n",
+        "</details>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-quiz",
+      "metadata": {},
+      "source": [
+        "## Quick Quiz\n",
+        "\n",
+        "**Q1:** QUIZ_Q1\n",
+        "\n",
+        "a) QUIZ_Q1_A  b) QUIZ_Q1_B  c) QUIZ_Q1_C  d) QUIZ_Q1_D\n",
+        "\n",
+        "---\n",
+        "\n",
+        "**Q2:** QUIZ_Q2\n",
+        "\n",
+        "*(Fill in the blank)*\n",
+        "\n",
+        "---\n",
+        "\n",
+        "**Q3:** True or False — QUIZ_Q3\n",
+        "\n",
+        "<details>\n",
+        "<summary>Answers</summary>\n",
+        "\n",
+        "1. QUIZ_A1\n",
+        "2. QUIZ_A2\n",
+        "3. QUIZ_A3\n",
+        "\n",
+        "</details>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "id": "cell-summary",
+      "metadata": {},
+      "source": [
+        "## Summary\n",
+        "\n",
+        "### What you learned\n",
+        "\n",
+        "| Concept | Key Point |\n",
+        "|---------|-----------|\n",
+        "| CONCEPT_1_NAME | SUMMARY_1 |\n",
+        "| CONCEPT_2_NAME | SUMMARY_2 |\n",
+        "\n",
+        "### Further reading (vault)\n",
+        "\n",
+        "- [[Learning/Fathom/DATE_PLACEHOLDER - TOPIC_PLACEHOLDER]] — session note\n",
+        "\n",
+        "### What to explore next\n",
+        "\n",
+        "- NEXT_1\n",
+        "- NEXT_2"
+      ]
+    }
+  ]
+}
