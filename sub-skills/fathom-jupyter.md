@@ -42,13 +42,19 @@ Before writing any cells, plan the sequence:
 3. For each concept (2–5 total):
    a. Concept cell (markdown)     — Explain the concept, one idea per cell
    b. Demo cell (code)            — Show it running, output visible
+   [For 🔑 threshold concepts: add a second markdown cell after the demo
+    — "Why this is a portal" — explaining what changes once you grasp it]
 4. Worked example (code)          — End-to-end realistic scenario
 5. Challenge cell (markdown)      — "Your turn: try X" prompt
 6. Quiz cells (markdown)          — 3 multiple-choice or fill-in questions
 7. Summary cell (markdown)        — Key takeaways + wikilinks to vault
 ```
 
-Limit to 3–5 concepts. A tight notebook that runs clean beats a comprehensive one that confuses.
+**Alignment with Field Map:** Sequence concepts in the same order they appear in the Field Map's critical path. If the Field Map hasn't been built yet (running fathom-jupyter standalone), derive the critical path from the source material.
+
+**Threshold concepts get extra depth:** Any concept flagged 🔑 in the Field Map gets a third cell — a short "portal" markdown cell that explicitly states: what the common misconception is before grasping it, what shifts once you cross it, and what becomes accessible downstream.
+
+Limit to 3–5 concepts total. A tight notebook that runs clean beats a comprehensive one that confuses.
 
 ---
 

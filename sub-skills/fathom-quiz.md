@@ -36,11 +36,14 @@ Distribute across three difficulty levels:
 | Application (L2) | 4 | Short answer or "what would happen if..." |
 | Synthesis (L3) | 3 | "Explain the difference between...", trace-through, or scenario |
 
+**Threshold concept weighting:** At least 4 of the 10 questions must directly test 🔑 threshold concepts from the Field Map. These are the portal moments — if they're not tested, the quiz doesn't measure genuine comprehension. Tag threshold questions with 🔑 in the quiz header so gaps are visible at a glance.
+
 **Question quality rules:**
 - One right answer per multiple choice — no "all of the above"
 - Application questions must require *doing* something (not just recalling)
 - Synthesis questions should reveal whether the concept is actually understood
 - No trick questions — test understanding, not memory of phrasing
+- If no Field Map exists (running quiz standalone), identify the 2–3 most conceptually pivotal ideas and treat them as threshold concepts
 
 **Format:**
 
