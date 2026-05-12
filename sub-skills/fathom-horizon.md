@@ -57,14 +57,14 @@ If research returns nothing useful, synthesise from knowledge — but flag as "n
 ### Step 1 — Prerequisite analysis
 
 Reason about what [subject] assumes the learner already knows.
-Assess each against Kelvin's profile: self-taught in CS, philosophy, physics — strong in risk/insurance, Stoicism/Daoism, languages, pattern recognition. Formal gaps may exist in: CS fundamentals, maths beyond calculus, formal logic, electrical engineering.
+Assess each against the learner's profile if known. If no profile context is available, flag common prerequisite gaps for self-taught learners: CS fundamentals, maths beyond calculus, formal logic.
 
 Output a table:
 
 ```markdown
 ### Prerequisite Gaps
 
-| Concept | Likely status for Kelvin | If gap: entry point |
+| Concept | Likely status for learner | If gap: entry point |
 |---------|--------------------------|---------------------|
 | [Concept] | Probably solid / Possibly shaky / Likely gap | [Suggested /fathom or resource] |
 ```

@@ -67,7 +67,7 @@ import nbformat
 import json
 import os
 
-VAULT = "/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT = "$VAULT"
 
 # --- Cell content (fill in based on subject) ---
 
@@ -233,7 +233,7 @@ python3 /tmp/build_notebook.py
 ## Step 4 — Verify the Output
 
 ```bash
-VAULT="/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT="$VAULT"
 python3 -c "
 import nbformat, json
 with open('$VAULT/Learning/Fathom/Notebooks/[Topic].ipynb') as f:

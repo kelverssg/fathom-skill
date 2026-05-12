@@ -32,7 +32,7 @@ If running standalone (e.g. `/fathom flashcards [topic]` fresh):
 | Question | A "what is" or "why does" question | Answer, 1–3 sentences |
 | Contrast | "What is the difference between X and Y?" | Crisp comparative answer |
 | Threshold | The core question for a 🔑 concept | The portal insight — the thing that clicks |
-| Analogy | "[Concept] is like what?" | The analogy (from Kelvin's domains if applicable) |
+| Analogy | "[Concept] is like what?" | The analogy (from the learner's domains if applicable) |
 
 **Card content rules:**
 - `front`: 1 line ideally, 2 max — concise prompt
@@ -76,7 +76,7 @@ Include `threshold` as an extra field — the viewer ignores unknown fields.
 
 ```python
 import json, os
-VAULT = "/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT = "$VAULT"
 path = f'{VAULT}/Learning/Fathom/{DATE}-{SLUG}-flashcards.json'
 with open(path, 'w', encoding='utf-8') as f:
     json.dump(cards_list, f, ensure_ascii=False, indent=2)
@@ -97,7 +97,7 @@ Write `/tmp/build_flashcards.py` with the full card data. **Fill all `[PLACEHOLD
 import json, os
 from datetime import datetime
 
-VAULT = "/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT = "$VAULT"
 
 TITLE = "[TOPIC TITLE]"
 DATE  = "[YYYY-MM-DD]"

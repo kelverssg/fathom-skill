@@ -11,7 +11,7 @@ Generate a self-contained HTML+CSS+JS quiz file with multiple choice, true/false
 Same as fathom-quiz Step 1. Read relevant vault files or source material before writing questions.
 
 ```bash
-VAULT="/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT="$VAULT"
 ls "$VAULT/Learning/Fathom/" | grep -i "[topic]"
 ```
 
@@ -92,7 +92,7 @@ Write `/tmp/build_quiz.py` with the quiz JSON embedded. Fill ALL `[PLACEHOLDER]`
 import json, os, sys
 from datetime import datetime
 
-VAULT = "/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT = "$VAULT"
 
 # --- Quiz data (fill this in) ---
 QUIZ = [PASTE_QUIZ_JSON_HERE]

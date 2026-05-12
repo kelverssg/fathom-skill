@@ -112,7 +112,7 @@ For each component, one block:
 
 [2–3 sentences: what it does, how it fits in the architecture, plain language — no jargon without definition]
 
-*Analogy:* [Bridge to one of Kelvin's domains: risk/insurance, Stoicism/Daoism/philosophy, 
+*Analogy:* [Bridge to one of the learner's domains if context is known, e.g. risk, philosophy, 
 martial arts, Japanese/Chinese language learning, physics — whichever fits naturally. 
 If none fit naturally, skip rather than force one.]
 
@@ -204,7 +204,7 @@ Always write (unless mode is quiz or brief):
 Use template: `~/.claude/skills/fathom/templates/vault-note-template.md`
 
 ```bash
-VAULT="/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT="$VAULT"
 DATE=$(date +%Y-%m-%d)
 ```
 

@@ -10,7 +10,7 @@ Read relevant vault files or source material before writing questions.
 
 For a concept topic:
 ```bash
-VAULT="/Users/macbookair2022/Library/Mobile Documents/iCloud~md~obsidian/Documents/Kelvers"
+VAULT="$VAULT"
 # Check if a relevant vault note exists
 ls "$VAULT/Philosophy/" | grep -i "[topic]"
 ls "$VAULT/Learning/" | grep -i "[topic]"
